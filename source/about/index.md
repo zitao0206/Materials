@@ -22,7 +22,7 @@ Note: It contains the latest accumulation of Chinese technology.
 <font size=4>Senior: **1,000** hours, Percentage: **200/1,000 = 20%**</font>        
 <font size=4>Expert: **5,000** hours, Percentage: **200/10,000 = 4%**</font>         
 <font size=4>Master: **10,000** hours, Percentage: **200/10,000 = 1%**</font>         
-The time ends at 2023-08-29.
+The time ends at 2025-08-21.
 
 
 
